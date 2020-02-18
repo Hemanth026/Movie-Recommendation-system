@@ -1,1 +1,1 @@
-# Movie-Recommendation-system
+The program show the output of the code in the successive cells. The 2 ways of recommendation system has been demonstrated in the program. The dataset contains all the relevent information that is used to train the model.
